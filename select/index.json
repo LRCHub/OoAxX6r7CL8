@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Attitude (~The White Lounge Version~ / Live)",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-03-10T12:09:46.288191Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Attitude (~The White Lounge Version~ / Live)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_Attitude_(~The_White_Lounge_Version~___Live)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Attitude (~The White Lounge Version~ / Live / 映画「The White Lounge in CINEMA」より)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_Attitude_(~The_White_Lounge_Version~___Live___映画「The_White_Lounge_in_CINEMA」より)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Attitude (~The White Lounge Version~ / Live / From “The White Lounge in CINEMA” Soundtrack)",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/03_Attitude_(~The_White_Lounge_Version~___Live___From_“The_White_Lounge_in_CINEMA”__Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Attitude(The White Lounge Version)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_Attitude(The_White_Lounge_Version)_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
